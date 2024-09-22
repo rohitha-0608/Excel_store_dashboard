@@ -11,7 +11,7 @@ This project analyzes store data. It includes cleaning and processing the data, 
 Data Cleaning and Processing
 The project involves:
 
-Handling missing data
-Removing duplicates
-Cleaning incorrect values
-Transforming data for analysis
+- Handling missing data
+- Removing duplicates
+- Cleaning incorrect values
+- Transforming data for analysis
